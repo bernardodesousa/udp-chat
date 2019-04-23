@@ -1,0 +1,11 @@
+EXERCÍCIO
+Utilizando o socket Multicast, desenvolva uma aplicação de chat. Para isso, utilize o exemplo apresentado em aula.
+A aplicação deverá ser um transmissor (sender) e um receptor (listener).
+
+Passos
+1) Configurar o socket
+2) Digitar o texto
+3) Transmitir o texto
+4) Receber mensagem externa
+5) Apresentar mensagem recebida
+6) Voltar ao passo 2
